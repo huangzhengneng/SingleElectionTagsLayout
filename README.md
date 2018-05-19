@@ -1,0 +1,2 @@
+# SingleElectionTagsLayout
+基于AndroidTagsView的单选带样式的标签view
