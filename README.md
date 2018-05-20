@@ -3,4 +3,4 @@
 
 
 ![](screenshots/screenshot1.jpg)
-![](screenshots/screenshot2.jpg)
+![](screenshots/screenshot2.png)
